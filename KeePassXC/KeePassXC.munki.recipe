@@ -47,7 +47,7 @@
 		<key>MinimumVersion</key>
 		<string>1.0.4</string>
 		<key>ParentRecipe</key>
-		<string>com.github.dataJAR-recipes.download.KeePassXC</string>
+		<string>com.github.jonbreen2000.download.KeePassXC</string>
 		<key>Process</key>
 		<array>
 			<dict>
