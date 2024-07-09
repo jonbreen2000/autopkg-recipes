@@ -3,7 +3,7 @@
 <plist version="1.0">
 	<dict>
 		<key>Description</key>
-		<string>Downloads the latest stable KeePassXC.</string>
+		<string>Downloads the latest stable KeePassXC for arm64.</string>
 		<key>Identifier</key>
 		<string>com.github.dataJAR-recipes.download.KeePassXC</string>
 		<key>Input</key>
