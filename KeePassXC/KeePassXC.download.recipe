@@ -36,7 +36,7 @@
 				<key>Arguments</key>
 				<dict>
 					<key>filename</key>
-					<string>%NAME%-%version%.dmg</string>
+					<string>%NAME%-%version%-arm64.dmg</string>
 				</dict>
 			</dict>
 		<dict>
