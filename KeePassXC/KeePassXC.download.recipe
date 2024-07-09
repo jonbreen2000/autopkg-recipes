@@ -5,7 +5,7 @@
 		<key>Description</key>
 		<string>Downloads the latest stable KeePassXC for arm64.</string>
 		<key>Identifier</key>
-		<string>com.github.dataJAR-recipes.download.KeePassXC</string>
+		<string>com.github.jonbreen2000.download.KeePassXC</string>
 		<key>Input</key>
 		<dict>
 			<key>NAME</key>
